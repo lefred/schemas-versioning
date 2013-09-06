@@ -1,0 +1,2 @@
+City::     add PolutionLevel int; 
+City:: add index pol_idx(PolutionLevel); 
